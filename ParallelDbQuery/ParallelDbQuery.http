@@ -1,0 +1,6 @@
+@ParallelDbQuery_HostAddress = http://localhost:5043
+
+GET {{ParallelDbQuery_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
